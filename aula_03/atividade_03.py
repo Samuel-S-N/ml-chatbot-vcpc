@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 from sklearn.linear_model import LinearRegression
 
+df = pd.read_csv('mensagens_suporte.csv')
+
 # 1. Criando dados de exemplo para o tempo (Target Contínuo)
 # Regra: Cada caractere adiciona ~0.5 min de análise + 5 min base
 df['tempo_real_espera'] = (df['tamanho_msg'] * 0.5) + 5 + np.random.normal(0, 2, len(df))

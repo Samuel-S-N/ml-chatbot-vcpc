@@ -2,6 +2,8 @@ import pandas as pd
 from sklearn.tree import DecisionTreeClassifier, export_text
 from sklearn.model_selection import train_test_split
 
+df = pd.read_csv('mensagens_suporte.csv')
+
 # 1. Preparação (Usando as features da Aula 02)
 # Supondo que o df já tenha as colunas: 'qtd_exclamacao', 'tem_palavra_alerta', 'tamanho_msg'
 X = df[['qtd_exclamacao', 'tem_palavra_alerta', 'tamanho_msg']]
