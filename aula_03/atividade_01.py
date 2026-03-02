@@ -28,3 +28,5 @@ y = df['rotulo']
 
 print("\n--- Dados prontos para o ML (X) ---")
 print(X.head()) 
+
+df.to_csv('mensagens_suporte_features.csv', index=False)
