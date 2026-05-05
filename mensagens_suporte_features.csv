@@ -1,0 +1,9 @@
+texto,rotulo,texto_limpo,qtd_exclamacao,tem_palavra_alerta,tamanho_msg
+Meu produto ainda não CHEGOU!!!,1,meu produto ainda não chegou!!!,3,1,31
+Gostaria de saber o preço do frete.,0,gostaria de saber o preço do frete.,0,0,35
+ESTOU MUITO BRAVO COM O ATRASO,1,estou muito bravo com o atraso,0,1,30
+Como faço para rastrear meu pedido?,0,como faço para rastrear meu pedido?,0,0,35
+"O boleto já foi pago, cadê meu acesso?",1,"o boleto já foi pago, cadê meu acesso?",0,1,38
+Quero cancelar essa compra agora!,1,quero cancelar essa compra agora!,1,1,33
+Qual o horário de atendimento de vocês?,0,qual o horário de atendimento de vocês?,0,0,39
+Vocês aceitam Pix como forma de pagamento?,0,vocês aceitam pix como forma de pagamento?,0,0,42
