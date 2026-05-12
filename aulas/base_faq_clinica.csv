@@ -1,0 +1,46 @@
+id,categoria,intencao,pergunta,resposta
+1,glicose,info_glicose,qual é o valor normal de glicose no sangue,A glicemia normal em jejum está entre 70 e 99 mg/dL. Acima de 126 mg/dL pode indicar diabetes.
+2,glicose,info_glicose,minha glicemia está alta o que fazer,Glicemia alta pode indicar pré-diabetes ou diabetes. Consulte um médico e evite açúcares e carboidratos refinados.
+3,glicose,info_glicose,o que é pré-diabetes,Pré-diabetes ocorre quando a glicemia em jejum está entre 100 e 125 mg/dL. É reversível com dieta e exercício.
+4,glicose,info_glicose,como medir a taxa de açúcar no sangue,"Use um glicosímetro em jejum de 8 horas. Fure o dedo, aplique a gota na fita e leia o valor em segundos."
+5,glicose,info_glicose,qual o perigo de glicose muito baixa,"Hipoglicemia (glicose < 70 mg/dL) causa tontura, tremores e pode levar ao desmaio. Consuma açúcar ou suco imediatamente."
+6,glicose,info_glicose,glicose 130 é perigoso,Glicemia de 130 mg/dL em jejum está acima do normal (≥ 126 mg/dL pode indicar diabetes). Procure avaliação médica.
+7,glicose,info_glicose,alimentos que aumentam a glicose,"Alimentos ricos em carboidratos simples (pão branco, arroz branco, doces, refrigerantes) elevam rapidamente a glicose."
+8,glicose,info_glicose,diabetes tipo 2 tem cura,"Diabetes tipo 2 não tem cura, mas é controlável com alimentação, exercício e medicação. Diagnóstico precoce é fundamental."
+9,pressao,info_pressao,qual é a pressão arterial normal,A pressão ideal é abaixo de 120/80 mmHg. Entre 120–139/80–89 é normal limítrofe. Acima de 140/90 é hipertensão.
+10,pressao,info_pressao,o que causa pressão alta,"Causas: excesso de sal, sedentarismo, obesidade, estresse, genética e envelhecimento. A maioria é controlável."
+11,pressao,info_pressao,sintomas de pressão alta,"Hipertensão geralmente é silenciosa. Quando sintomática: dor de cabeça, visão turva, tontura e zumbido no ouvido."
+12,pressao,info_pressao,como baixar a pressão naturalmente,"Reduza sal, pratique exercícios aeróbicos, controle o estresse, evite álcool e cigarro, mantenha peso saudável."
+13,pressao,info_pressao,pressão 160 por 100 é grave,"Sim, 160/100 mmHg é Hipertensão Grau 2. Requer avaliação médica urgente e possivelmente medicação."
+14,pressao,info_pressao,como medir a pressão corretamente,"Sente-se, descanse 5 minutos, braço na altura do coração, manguito no braço nu. Repita 2x e tire a média."
+15,pressao,info_pressao,pressão baixa tontura o que fazer,"Hipotensão (< 90/60 mmHg) com tontura: deite e eleve as pernas, hidrate-se. Se persistir, procure atendimento médico."
+16,pressao,info_pressao,hipertensão tem cura,"A hipertensão essencial não tem cura, mas é controlada com medicação e mudanças no estilo de vida."
+17,imc,info_imc,como calcular meu imc,"Divida seu peso (kg) pela altura ao quadrado (m²). Exemplo: 70 kg ÷ (1,70)² = 70 ÷ 2,89 = IMC 24,2 (normal)."
+18,imc,info_imc,imc 32 é considerado obeso,"Sim. IMC entre 30 e 34,9 é Obesidade Grau I. Representa risco aumentado para diabetes, hipertensão e doenças cardiovasculares."
+19,imc,info_imc,qual imc é considerado saudável,"IMC entre 18,5 e 24,9 é considerado peso normal pela OMS. Entre 25 e 29,9 é sobrepeso."
+20,imc,info_imc,perder peso melhora o imc,"Sim. Cada kg perdido reduz o IMC em aproximadamente 0,35 pontos (para altura de 1,70 m). Pequenas reduções já trazem benefícios."
+21,imc,info_imc,imc baixo é perigoso,"IMC abaixo de 18,5 indica desnutrição ou magreza excessiva. Pode causar anemia, osteoporose e queda de imunidade."
+22,imc,info_imc,imc funciona para atletas,O IMC tem limitações em atletas pois não distingue músculo de gordura. Medidas complementares como circunferência abdominal são recomendadas.
+23,colesterol,info_colesterol,qual o nível ideal de colesterol,Colesterol total: < 200 mg/dL (ótimo). LDL: < 130 mg/dL. HDL: > 60 mg/dL (protetor). Triglicerídeos: < 150 mg/dL.
+24,colesterol,info_colesterol,alimentos que aumentam o colesterol ruim,"Gorduras saturadas (carnes gordas, manteiga, queijos amarelos) e trans (biscoitos industrializados) elevam o LDL."
+25,colesterol,info_colesterol,colesterol alto tem sintomas,Não. O colesterol alto é silencioso. Só é detectado por exame de sangue (lipidograma). Por isso exames periódicos são essenciais.
+26,colesterol,info_colesterol,exercício físico baixa colesterol,Sim. Exercícios aeróbicos regulares (150 min/semana) elevam o HDL (bom) e reduzem triglicerídeos e LDL.
+27,colesterol,info_colesterol,diferença entre ldl e hdl,LDL transporta colesterol para as artérias (ruim em excesso). HDL remove o excesso das artérias (protetor). Queremos LDL baixo e HDL alto.
+28,colesterol,info_colesterol,colesterol 250 precisa de remédio,Colesterol 250 mg/dL está na faixa alto. O médico avaliará o risco cardiovascular global antes de indicar estatinas ou só dieta.
+41,sedentarismo,info_sedentarismo,o que é sedentarismo,"Sedentarismo é a falta de atividade física regular. Pode aumentar o risco de doenças crônicas como diabetes, pressão alta e obesidade."
+42,sedentarismo,info_sedentarismo,como prevenir o sedentarismo,"Pratique exercícios aeróbicos regularmente, como caminhada, corrida, natação ou bike. Inclua atividades de força (musculação) para melhorar a saúde cardiovascular."
+43,sedentarismo,info_sedentarismo,sedentarismo aumenta o risco de doenças,"Sim. Sedentarismo aumenta o risco de doenças crônicas como diabetes, pressão alta e obesidade. Pratique exercícios aeróbicos regularmente para reduzir o risco."
+44,sedentarismo,info_sedentarismo,sedentarismo causa obesidade,Sim. Sedentarismo aumenta o risco de obesidade. Pratique exercícios aeróbicos regularmente para reduzir o risco.
+45,sedentarismo,info_sedentarismo,sedentarismo causa diabetes,Sim. Sedentarismo aumenta o risco de diabetes. Pratique exercícios aeróbicos regularmente para reduzir o risco.
+29,risco,info_risco,o que é risco cardiovascular,"É a probabilidade de desenvolver infarto ou AVC em 10 anos. Fatores: idade, pressão, colesterol, diabetes, tabagismo e histórico familiar."
+30,risco,info_risco,como sei se tenho alto risco clínico,Múltiplos fatores alterados simultaneamente (glicose + pressão + colesterol + IMC) indicam alto risco. Avaliação médica completa é necessária.
+31,risco,info_risco,posso reduzir meu risco de doenças crônicas,"Sim. 80% das doenças crônicas são preveníveis com alimentação saudável, exercício, não fumar e exames periódicos."
+32,risco,info_risco,fatores de risco para infarto,"Pressão alta, colesterol alto, diabetes, obesidade, tabagismo, sedentarismo, estresse crônico e histórico familiar."
+33,risco,info_risco,exames preventivos que devo fazer,"Anualmente: glicemia, lipidograma, pressão arterial, IMC. A cada 2 anos: ECG. Mulheres: mamografia e Papanicolau conforme idade."
+34,risco,info_risco,com quantos anos aumenta o risco cardíaco,O risco cardiovascular aumenta progressivamente após 40 anos em homens e após 50 anos (menopausa) em mulheres.
+35,sistema,ajuda,o que você sabe responder,"Respondo sobre glicose, pressão arterial, IMC, colesterol e risco clínico. Para emergências, ligue 192 (SAMU)."
+36,sistema,ajuda,quais tópicos estão disponíveis,"Tópicos: glicose/glicemia, pressão arterial/hipertensão, IMC/obesidade, colesterol/LDL, risco cardiovascular."
+37,sistema,consulta,quero marcar uma consulta médica,Para consultas: UBS (SUS): ligue 136. Pronto-atendimento: 192 (SAMU). Emergências: 192 ou 193.
+38,sistema,consulta,onde posso fazer exames de sangue gratuitos,"Pelo SUS, exames básicos são gratuitos nas UBS (Unidades Básicas de Saúde). Apresente cartão do SUS e pedido médico."
+39,sistema,saudacao,olá bom dia tudo bem,"Olá! Tudo bem sim, obrigado! Sou o assistente clínico virtual. Como posso ajudar você hoje?"
+40,sistema,despedida,obrigado até logo tchau,Até logo! Cuide-se bem e não esqueça dos seus exames periódicos. Volte sempre! 🩺
